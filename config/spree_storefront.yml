@@ -1,23 +1,23 @@
 default:
   navigation:
-    - title: Women
-      subtitle: Categories
+    - title: Женщинам
+      subtitle: Категории
       url: /t/women
       items:
-        - :title: Skirts
+        - :title: Юбки
           :url: /t/women/skirts
-        - :title: Dresses
+        - :title: Платья
           :url: /t/women/dresses
-        - :title: Shirts and Blouses
+        - :title: Рубашки и Блузки
           :url: /t/women/shirts-and-blouses
-        - :title: Sweaters
+        - :title: Свитеры
           :url: /t/women/sweaters
-        - :title: Tops and T-shirts
+        - :title: Топы и футболки
           :url: /t/women/tops-and-t-shirts
-        - :title: Jackets and Coats
+        - :title: Куртки и пальто
           :url: /t/women/jackets-and-coats
       promo_banners:
-        - subtitle: New collection
+        - subtitle: Новая коллекция
           title: Summer 2019
           url: /t/new-collection/summer-2019
           image: 'meganav/promo_banner_left-first-category.jpg'
@@ -25,20 +25,20 @@ default:
           title: Get up to 30% off
           url: /t/special-offers/30-off
           image: 'meganav/promo_banner_right-first-category.jpg'
-    - title: Men
-      subtitle: Categories
+    - title: Мужчинам
+      subtitle: Категории
       url: /t/men
       items:
-        - :title: Shirts
+        - :title: Рубашки
           :url: /t/men/shirts
-        - :title: T-shirts
+        - :title: Футболки
           :url: /t/men/t-shirts
-        - :title: Sweaters
+        - :title: Свитеры
           :url: /t/men/sweaters
-        - :title: Jackets and Coats
+        - :title: Куртки и пальто
           :url: /t/men/jackets-and-coats
       promo_banners:
-        - subtitle: New collection
+        - subtitle: Новая коллекция
           title: Summer 2019
           url: /t/new-collection/summer-2019
           image: 'meganav/promo_banner_left-second-category.jpg'
@@ -46,20 +46,20 @@ default:
           title: Get up to 30% off
           url: /t/special-offers/30-off
           image: 'meganav/promo_banner_right-second-category.jpg'
-    - title: Sportswear
-      subtitle: Categories
+    - title: Спортивная одежда
+      subtitle: Категории
       url: /t/sportswear
       items:
-        - :title: Tops
+        - :title: Верх
           :url: /t/sportswear/tops
-        - :title: Sweatshirts
+        - :title: Толстовки
           :url: /t/sportswear/sweatshirts
-        - :title: Pants
+        - :title: Штаны
           :url: /t/sportswear/pants
       promo_banners:
-        - subtitle: New collection
-          title: Summer 2019
-          url: /t/new-collection/summer-2019
+        - subtitle: Новая коллекция
+          title: Лето 2021
+          url: /t/new-collection/summer-2021
           image: 'meganav/promo_banner_left-third-category.jpg'
         - subtitle: Special Offers
           title: Get up to 30% off
