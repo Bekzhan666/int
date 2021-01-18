@@ -772,6 +772,9 @@ ru:
       shop_now: "Купить"
       sportswear: ""Спортивная одежда"
       new_collection: "Новая коллекция"
+      streetstyle: "Уличный стиль"
+      summer_sale: "Летняя расспродажа"
+      fashion_trends: "Тренды моды"
     i18n:
       available_locales: "Доступные переводы"
       language: "Язык"
