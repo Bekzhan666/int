@@ -758,6 +758,8 @@ ru:
       store_translations: "Локализация настроек"
     google_analytics: Google Analytics
     google_analytics_id: Google Analytics ID
+    go_to_category: "Перейти к категории"
+    go_to_previous_menu: "Перейти к предыдущему меню"
     guest_checkout: "Гостевой заказ"
     guest_user_account: "Оформить покупку как гость"
     has_no_shipped_units: "не имеет отправленных единиц учёта"
@@ -766,8 +768,10 @@ ru:
     hide_cents: "Скрыть центы"
     home: "Домой"
     homepage:
-      read_more: "Чиать далее"
+      read_more: "Читать далее"
       shop_now: "Купить"
+      sportswear: ""Спортивная одежда"
+      new_collection: "Новая коллекция"
     i18n:
       available_locales: "Доступные переводы"
       language: "Язык"
@@ -882,7 +886,9 @@ ru:
       my_orders: "Мои заказы"
       show_search: "Поиск"
       show_user_menu: "Меню"
+      show_menu: "Меню"
       sign_up: "Регистрация"
+      close_menu: "Закрыть меню"
     new: "Новый"
     new_adjustment: "Новая корректировка"
     new_country: "Новая страна"
