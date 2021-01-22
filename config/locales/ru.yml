@@ -892,6 +892,7 @@ ru:
       show_menu: "Меню"
       sign_up: "Регистрация"
       close_menu: "Закрыть меню"
+      go_to_previous_menu: "В предыдущее меню"
     new: "Новый"
     new_adjustment: "Новая корректировка"
     new_country: "Новая страна"
@@ -1061,6 +1062,10 @@ ru:
     please_define_payment_methods: "Сначала определите способ оплаты."
     plp:
       home: "Главная"
+      sort_by: "Сортировать"
+      newest_first: "по новизне"
+      price_high_to_low: "сначала дороже"
+      price_low_to_high: "сначала дешевле"
     populate_get_error: "Что-то пошло не так. Попробуйте добавить товар еще раз."
     powered_by: "Работает на"
     pre_tax_amount:
@@ -1130,6 +1135,7 @@ ru:
       product:
         description: "Заказ содержит указанные товары"
         name: "Товары"
+        less_than: "Меньше"
       taxon:
         description: "Заказ содержит товары указанных категорий"
         name: "Категории"
