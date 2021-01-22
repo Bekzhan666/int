@@ -84,6 +84,7 @@ ru:
         on_hand: "На складе"
         shipping_category: "Категория доставки"
         tax_category: "Категория налогов"
+        less_than: "Меньше чем"
       spree/promotion:
         advertise: "Рекламировать"
         code: "Код"
@@ -1072,8 +1073,6 @@ ru:
       not_found_filters1: "не найдено фильтров1"
       not_found_filters2: "не найдено фильтров2"
       price: "Цена"
-    product:
-      less_than: "Меньше"
     populate_get_error: "Что-то пошло не так. Попробуйте добавить товар еще раз."
     powered_by: "Работает на"
     pre_tax_amount:
@@ -1143,7 +1142,6 @@ ru:
       product:
         description: "Заказ содержит указанные товары"
         name: "Товары"
-        less_than: "Меньше"
       taxon:
         description: "Заказ содержит товары указанных категорий"
         name: "Категории"
