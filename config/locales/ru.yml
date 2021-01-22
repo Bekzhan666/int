@@ -475,6 +475,7 @@ ru:
     all_adjustments_opened: "Все корректировки успешно открыты!"
     all_departments: "Все разделы"
     all_items_have_been_returned:
+    all_rights_reserved: "Все Права Защищены"
     allow_ssl_in_development_and_test: "Разрешить SSL для development и test режимов"
     allow_ssl_in_production: "Разрешить SSL для production режима"
     allow_ssl_in_staging: "Разрешить SSL для staging режима"
