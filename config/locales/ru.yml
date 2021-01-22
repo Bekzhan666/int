@@ -1066,6 +1066,13 @@ ru:
       newest_first: "по новизне"
       price_high_to_low: "сначала дороже"
       price_low_to_high: "сначала дешевле"
+      default: "по умолчанию"
+      no_results: "Нет Результатов"
+      not_found_filters1: "не найдено фильтров1"
+      not_found_filters2: "не найдено фильтров2"
+      price: "Цена"
+    product:
+      less_than: "Меньше"
     populate_get_error: "Что-то пошло не так. Попробуйте добавить товар еще раз."
     powered_by: "Работает на"
     pre_tax_amount:
